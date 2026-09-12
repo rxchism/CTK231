@@ -1,0 +1,75 @@
+.customtext {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.sansserif {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.serifed {
+    font-family: "Times New Roman", serif;
+}
+
+body {
+    background-color: #eeeeee;
+}
+
+main {
+    background-color: #ffffff;
+}
+
+.boxmodel {
+    border: 2px solid #0000ff;
+    padding: 20px 20px 20px 20px;
+    margin: 10px 10px 10px 10px;
+}
+
+.pwidth {
+    width: 100px;
+}
+
+.textright {
+    text-align: right;
+}
+
+.textleft {
+    text-align: left;
+}
+
+.textcenter {
+    text-align: center;
+}
+
+.textjustify {
+    text-align: justify;
+}
+
+.textspace {
+    letter-spacing: 20px;
+}
+
+.textheight {
+    line-height: 20px;
+}
+
+.imgbox {
+    border: 2px solid #ff0000;
+    padding: 10px 10px 10px 10px;
+    margin: 20px 20px 20px 20px;
+    background-color: #0000ff;
+}
+
+.imgwidth {
+    width: 240px;
+}
+
+.backgroundexample {
+    background-color: #0000ff;
+    background-image: url(backgroundimage.jpg);
+    background-repeat: no-repeat;
+    background-position: top left;
+    padding: 40px;
+}
